@@ -1,0 +1,22 @@
+{
+  "name": "alpha_package",
+  "version": "1.0.0",
+  "description": "This is a package to check a number is even or odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaisriramVaddadi/alpha_package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sriram Vaddadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaisriramVaddadi/alpha_package/issues"
+  },
+  "homepage": "https://github.com/SaisriramVaddadi/alpha_package#readme"
+}
